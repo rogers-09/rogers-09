@@ -1,5 +1,5 @@
 #    Olá,    ***Sou  o  Rogerio***
-
+![Teste]https://www.shutterstock.com/image-photo/green-yellow-red-smoke-reggae-background-721098187
 <!--
 **rogers-09/rogers-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
