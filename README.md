@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Teste]https://www.shutterstock.com/image-photo/green-yellow-red-smoke-reggae-background-721098187
-![teste]
+![Teste](https://www.shutterstock.com/image-photo/green-yellow-red-smoke-reggae-background-721098187)
+
