@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Teste](https://www.shutterstock.com/image-photo/green-yellow-red-smoke-reggae-background-721098187)
+![Teste](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.contabeis.com.br%2Fartigos%2F6443%2F5-tendencias-de-tecnologia-na-educacao-para-2021%2F&psig=AOvVaw3LGX4q0KfgxlspsL498tvh&ust=1678407632948000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNjxy8jKzf0CFQAAAAAdAAAAABAD)
 
