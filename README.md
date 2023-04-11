@@ -1,2 +1,19 @@
-![download](https://user-images.githubusercontent.com/127352945/224594402-e8134335-dea8-4c77-91cb-b11ef878c01c.jpg)
-![download](https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif)
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Criando meu primeiro HTML</title>
+        <style>
+            body{fontreight bold,
+                 font-color blue,
+                 
+
+            }
+
+        </style>
+    </head>
+
+    <body>
+        Site de aprendizado
+    </body>
+
+</html>
