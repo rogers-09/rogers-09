@@ -4,8 +4,7 @@
         <title>Criando meu primeiro HTML</title>
         <style>
             body{fontreight bold,
-                 font-color blue,
-                 
+                 font-color blue,                 
 
             }
 
